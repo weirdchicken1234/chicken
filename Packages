@@ -15,7 +15,7 @@ Author: ianne.
 Depiction: https://weirdchicken1234.github.io/chicken/depictions/AnchorRaw/index.html
 Name: Anchor::raw
 
-Package: net.limneos.bioprotect-latest-ios11.deb
+Package: pollo.deb
 Version: 1-0
 Architecture: iphoneos-arm
 Maintainer: Limneos
