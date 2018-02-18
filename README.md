@@ -1,2 +1,2 @@
-# chicken.github.io
-a new repo
+# reddestdream.github.io
+ReddestDream's Cydia Repo! ^_^
