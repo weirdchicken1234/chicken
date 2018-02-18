@@ -16,11 +16,9 @@ Depiction: https://weirdchicken1234.github.io/chicken/depictions/AnchorRaw/index
 Name: Anchor::raw
 
 Package: net.limneos.bioprotect-latest-ios11.deb
-Version: 
+Version: 1-0
 Architecture: iphoneos-arm
 Maintainer: Limneos
-Pre-Depends: 
-Conflicts:
 Filename: ./debs/net.limneos.bioprotect-latest-ios11.deb
 Size: 733296 
 MD5sum: 8f7f191a7d91c3de6a3fe32214ab60ae
