@@ -1,0 +1,9 @@
+Origin: Chicken's repo
+Label: Chicken's repo
+Suite: stable
+Version: 1.0
+Codename: Chicken
+Architectures: iphoneos-arm
+Components: main
+Description: Chicken's repo
+MD5Sum: 
