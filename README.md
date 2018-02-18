@@ -1,2 +1,1 @@
-# reddestdream.github.io
-ReddestDream's Cydia Repo! ^_^
+chicken's Cydia Repo! 
