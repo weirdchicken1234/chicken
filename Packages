@@ -16,9 +16,11 @@ Depiction: https://weirdchicken1234.github.io/chicken/depictions/AnchorRaw/index
 Name: Anchor::raw
 
 Package: pollo.deb
-Version: 1-0
+Version: 
 Architecture: iphoneos-arm
 Maintainer: Limneos
+Pre-Depends: 
+Conflicts:
 Filename: ./debs/pollo.deb
 Size: 733296 
 MD5sum: 8f7f191a7d91c3de6a3fe32214ab60ae
