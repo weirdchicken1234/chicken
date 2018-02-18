@@ -3,7 +3,7 @@ Package: com.ianne.anchorraw.deb
 Version: 0.0.3
 Architecture: iphoneos-arm
 Maintainer: Ianne's team
-Pre-Depends: dpkg (>= 1.13.25-5)
+Pre-Depends: 
 Conflicts:
 Filename: ./debs/com.ianne.anchorraw.deb
 Size: 9088
