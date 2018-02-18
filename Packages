@@ -19,7 +19,7 @@ Package: pollo.deb
 Version: 1-0
 Architecture: iphoneos-arm
 Maintainer: Limneos
-Filename: ./debs/net.limneos.bioprotect-latest-ios11.deb
+Filename: ./debs/pollo.deb
 Size: 733296 
 MD5sum: 8f7f191a7d91c3de6a3fe32214ab60ae
 SHA1: 280649097b0b6115c6a6302dd64a4993e39a5bad
